@@ -11,4 +11,4 @@ Little projects that I've done
 
 - [EDO](EDO/) - Numerical resolution to a simplified model of an ODE
 - [Machine Learning](Machine_Learning/) - Predicting the type of breast cancer (benign/malignant) in women using machine learning models
-- [Panway](Panway/) - Simplified version of an ordering system in Subway made in 2021
+- [Panway](Panway/) - Simplified version of the [Subway's](https://www.subway.com/) ordering system made in 2021
