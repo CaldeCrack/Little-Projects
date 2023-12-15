@@ -2,7 +2,7 @@
 
 ## Contents
 
-- [The SQL Murder Mystery](#the-sql-murder-mystery-solution-by-me-(caldecrack))
+- [The SQL Murder Mystery](#the-sql-murder-mystery-solution-by-me-caldecrack)
   - [Contents](#contents)
   - [Description](#description)
   - [Starting Point](#starting-point)
@@ -21,13 +21,13 @@
     - [Get the description of the crime](#get-the-description-of-the-crime)
     - [Find the first witness](#find-the-first-witness)
     - [Find the second witness](#find-the-second-witness)
-    - [Get interviews of the witnesses](#get_interviews-of-the-witnesses)
+    - [Get interviews of the witnesses](#get-interviews-of-the-witnesses)
       - [First witness](#first-witness)
       - [Second witness](#second-witness)
     - [Investigate the transcripts](#investigate-the-transcripts)
-      - [First witness' transcript gym info](#first-witness'-transcript-gym-info)
-      - [Second witness' transcript gym info](#second-witness'-transcript-gym-info)
-      - [First witness' transcript car info](#first-witness'-transcript-car-info)
+      - [First witness' transcript gym info](#first-witness-transcript-gym-info)
+      - [Second witness' transcript gym info](#second-witness-transcript-gym-info)
+      - [First witness' transcript car info](#first-witness-transcript-car-info)
     - [Get drivers license from the suspects](#get-drivers-license-from-the-suspects)
       - [First suspect license id](#first-suspect-license-id)
       - [Second suspect license id](#second-suspect-license-id)
