@@ -371,7 +371,7 @@ WHERE license_id IN
 ### Search for the women in the event
 
 ```sql
-SELECT *
+SELECT name
 FROM person
 WHERE id IN
   (SELECT person_id
